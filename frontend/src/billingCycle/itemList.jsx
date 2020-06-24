@@ -4,7 +4,7 @@ import {connect} from 'react-redux'
 import {bindActionCreators} from 'redux'
 import Grid from '../common/layout/grid'
 import Input from '../common/form/input'
-import If from '../common/operador/if'
+import If from '../common/operator/if'
 
 class ItemList extends Component {
     
